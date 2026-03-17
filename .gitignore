@@ -159,6 +159,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# Internal implementation guide (do not submit)
+03-FinalProject-Implementation-Guide.md
+
 # MacOS
 .DS_Store
 
